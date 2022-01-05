@@ -1,0 +1,1 @@
+INSERT INTO  `User` (`Login`,`Password`,`Status`) VALUES ('admin', '$2y$10$xv24i5gXzHScz.8MFKkHSOTxOuAjOyinYX9BlcRh5//aMz2UDowN2', 1)
